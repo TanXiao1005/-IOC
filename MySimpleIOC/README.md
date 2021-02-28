@@ -42,7 +42,7 @@
 ##### (一) 需要创建实例对象类
 
 - ```java
-  @NeedInstantiate()
+  @NeedInstantiate
   // @NeedInstantiate(objectName = "iOCDemo", initCreate = true)
   // @NeedInstantiate(objectName = "iOCDemo", initCreate = false)
   public class IOCDemo {
