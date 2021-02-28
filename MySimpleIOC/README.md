@@ -33,7 +33,7 @@
 - **getInstantiateObject() 方法：**
   - 使用MainDispatcher类的实例对象调用其 getInstantiateObject() 方法获取指定名称的实例对象。
 - **getContainerInfo() 方法：**
-  - 使用MainDispatcher类的实例对象调用其 getContainerInfo() 方法获取初始时实例对象容器和获取时实例对象容器容器信息。
+  - 使用MainDispatcher类的实例对象调用其 getContainerInfo() 方法获取初始时实例对象容器和获取时实例对象容器的信息。
 
 
 
